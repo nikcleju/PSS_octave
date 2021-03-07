@@ -1,6 +1,6 @@
 # Laboratories for SDP
 
-Lab 03: IIR Filter Design with Prony method: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=L03_Prony.ipynb)
+Lab 03: IIR Filter Design with Prony method: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikcleju/PSS_octave/master?filepath=L03_Prony.ipynb)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
 
